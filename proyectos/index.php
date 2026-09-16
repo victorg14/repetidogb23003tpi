@@ -88,6 +88,16 @@ function limpiar_cadena($valor){
         .contendor_formulario{
             background-color: #b49797;
         }
+        .btn_registrar{
+            background-color: blue;
+            color: white;
+
+        }
+
+        .btn_registrar:hover{
+            transform: scale(1.5);
+            background-color: aqua;
+        }
     </style>
 </head>
 <body>
